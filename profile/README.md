@@ -4,6 +4,8 @@ En **Elei**, nuestra pasión 💖 radica en ser catalizadores del legado artíst
 
 Concebimos Elei como una plataforma inclusiva y revolucionaria 🌍, diseñada para acoger tanto a aficionados de las criptomonedas 💰 como a aquellos que se adentran por primera vez en este fascinante ámbito. Nuestro objetivo es democratizar el acceso al arte y la tecnología, creando un espacio donde la innovación se encuentra con la tradición, y donde cada participante puede descubrir, experimentar y disfrutar de la riqueza del arte digital y la música en un ambiente seguro y estimulante.
 
+---
+
 ### 💡 Nuestro Compromiso
 
 - **Promover el Legado Artístico:** Elei se dedica a preservar y enriquecer el patrimonio cultural 🏛️, apoyando a artistas y creadores a través de herramientas tecnológicas avanzadas que les permitan llevar su arte al siguiente nivel.
@@ -14,7 +16,8 @@ Concebimos Elei como una plataforma inclusiva y revolucionaria 🌍, diseñada p
 
 - **Inclusividad y Accesibilidad:** Elei es un espacio para todos 🤝. Nuestro enfoque inclusivo invita a personas de todos los ámbitos a explorar el mundo de las criptomonedas y el arte digital, independientemente de su nivel de experiencia previo.
 
+---
+
 ### 🚀 Únete a la Revolución de Elei
 
-Invitamos a creadores, entusiastas del arte, innovadores tecnológicos y curiosos por igual a ser parte de este emocionante viaje con Elei 🌟. 
-Juntos, podemos construir un futuro donde el arte y la tecnología se entrelazan para crear experiencias sin precedentes, estableciendo nuevos estándares de creatividad y entretenimiento en América Latina y más allá.
+Invitamos a creadores, entusiastas del arte, innovadores tecnológicos y curiosos por igual a ser parte de este emocionante viaje con Elei 🌟. Juntos, podemos construir un futuro donde el arte y la tecnología se entrelazan para crear experiencias sin precedentes, estableciendo nuevos estándares de creatividad y entretenimiento en América Latina y más allá.
