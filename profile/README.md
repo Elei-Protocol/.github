@@ -16,4 +16,5 @@ Concebimos Elei como una plataforma inclusiva y revolucionaria 🌍, diseñada p
 
 ### 🚀 Únete a la Revolución de Elei
 
-Invitamos a creadores, entusiastas del arte, innovadores tecnológicos y curiosos por igual a ser parte de este emocionante viaje con Elei 🌟. Juntos, podemos construir un futuro donde el arte y la tecnología se entrelazan para crear experiencias sin precedentes, estableciendo nuevos estándares de creatividad y entretenimiento en América Latina y más allá.
+Invitamos a creadores, entusiastas del arte, innovadores tecnológicos y curiosos por igual a ser parte de este emocionante viaje con Elei 🌟. 
+Juntos, podemos construir un futuro donde el arte y la tecnología se entrelazan para crear experiencias sin precedentes, estableciendo nuevos estándares de creatividad y entretenimiento en América Latina y más allá.
